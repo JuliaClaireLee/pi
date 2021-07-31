@@ -1,0 +1,12 @@
+name: Pi_app
+title: Pi_app
+username:
+account: julia-lee
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1888348
+bundleId: 2869979
+url: https://julia-lee.shinyapps.io/Pi_app/
+when: 1583898363.43976
+asMultiple: FALSE
+asStatic: FALSE
